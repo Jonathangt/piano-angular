@@ -1,0 +1,11 @@
+.key .white-key:active{
+    opacity: 0.9;
+}
+
+.key .black-key:active{
+    opacity: 0.9;
+}
+
+.card-primary.card-outline {
+    border-top: 3px solid #007bff;
+}
